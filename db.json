@@ -1,0 +1,75 @@
+{
+  "categories": [
+    {
+      "category": "소형 벽시계",
+      "price": "1000"
+    },
+    {
+      "category": "소형 스탠드 시계",
+      "price": "1000"
+    },
+    {
+      "category": "긴 장화",
+      "price": "1000"
+    },
+    {
+      "category": "긴 부츠",
+      "price": "1000"
+    },
+    {
+      "category": "우산",
+      "price": "1000"
+    },
+    {
+      "category": "조명기구",
+      "price": "1000"
+    },
+    {
+      "category": "5킬로그램당 폐목재",
+      "price": "1000"
+    },
+    {
+      "category": "5킬로그램당 폐플라스틱",
+      "price": "1000"
+    },
+    {
+      "category": "밥상",
+      "price": "2000"
+    },
+    {
+      "category": "옷걸이",
+      "price": "2000"
+    },
+    {
+      "category": "이불",
+      "price": "2000"
+    },
+    {
+      "category": "휠체어",
+      "price": "2000"
+    },
+    {
+      "category": "난로",
+      "price": "3000"
+    },
+    {
+      "category": "대형 벽시계",
+      "price": "3000"
+    },
+    {
+      "category": "대형 스탠드 시계",
+      "price": "3000"
+    },
+    {
+      "category": "소형 의자",
+      "price": "4000"
+    },
+    {
+      "category": "피아노",
+      "price": "20000"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
